@@ -42,7 +42,7 @@ Claude's native memory is great — if you only use Claude. MemOS is for people 
 ### 1. Install
 
 ```bash
-git clone https://github.com/Sagar/MemOS
+git clone https://github.com/123saga/memos
 cd MemOS
 bash setup.sh
 ```
