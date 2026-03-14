@@ -1,0 +1,12 @@
+[
+  {"memory": "You are a software engineer who loves jazz music, especially Miles Davis and John Coltrane.", "created_at": "2024-11-03T09:14:22Z"},
+  {"memory": "Your favourite programming language is Rust, though you use Python daily for work.", "created_at": "2024-11-03T09:15:45Z"},
+  {"memory": "You live in San Francisco and work remotely for a US-based AI startup.", "created_at": "2024-11-05T14:22:10Z"},
+  {"memory": "You have a golden retriever named Biscuit who you take for walks every morning.", "created_at": "2024-11-05T14:23:55Z"},
+  {"memory": "You prefer dark mode in every app and get frustrated by light mode defaults.", "created_at": "2024-11-08T08:45:00Z"},
+  {"memory": "You are learning Japanese and are currently at N4 level.", "created_at": "2024-11-10T19:30:12Z"},
+  {"memory": "You drink black coffee, no sugar, and have at least 3 cups a day.", "created_at": "2024-11-12T07:10:44Z"},
+  {"memory": "You are working on a side project involving AI memory portability across different LLM platforms.", "created_at": "2024-11-15T21:05:33Z"},
+  {"memory": "You find it hard to focus with background music that has lyrics, so you prefer instrumentals while working.", "created_at": "2024-11-18T10:20:18Z"},
+  {"memory": "You recently read The Pragmatic Programmer and found it more useful than most modern software books.", "created_at": "2024-11-20T22:15:09Z"}
+]
