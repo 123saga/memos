@@ -2,7 +2,7 @@
 
 > The local-first, open-source memory layer that works across **all** your AI tools.
 
-[![CI](https://github.com/Sagar/MemOS/actions/workflows/ci.yml/badge.svg)](https://github.com/Sagar/MemOS/actions)
+[![CI](https://github.com/123saga/MemOS/actions/workflows/ci.yml/badge.svg)](https://github.com/123saga/MemOS/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 
